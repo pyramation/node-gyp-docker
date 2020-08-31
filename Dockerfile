@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:10.11.0
+FROM mhart/alpine-node:12.18.2
 
 ################################################################################
 # Install python for gyp
